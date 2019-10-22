@@ -1,0 +1,775 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ae72fc0d-276b-4fd3-b0e4-c75e8b79d4a2" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/mykidneyPC$outlined_cube.coverage" NAME="outlined_cube Coverage Results" MODIFIED="1525345136311" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vispy-master/examples/tutorial/gloo" />
+    <SUITE FILE_PATH="coverage/mykidneyPC$quiver.coverage" NAME="quiver Coverage Results" MODIFIED="1525606890943" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vispy-master/examples/demo/gloo" />
+    <SUITE FILE_PATH="coverage/mykidneyPC$game_of_life.coverage" NAME="game_of_life Coverage Results" MODIFIED="1524797562190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vispy-master/examples/demo/gloo" />
+    <SUITE FILE_PATH="coverage/mykidneyPC$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1525444619976" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/mykidneyPC$cloud.coverage" NAME="cloud Coverage Results" MODIFIED="1525005422790" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/mykidneyPC$imshow.coverage" NAME="imshow Coverage Results" MODIFIED="1525607539014" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vispy-master/examples/demo/gloo" />
+    <SUITE FILE_PATH="coverage/mykidneyPC$boids.coverage" NAME="boids Coverage Results" MODIFIED="1525004612581" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vispy-master/examples/demo/gloo" />
+    <SUITE FILE_PATH="coverage/mykidneyPC$magnify.coverage" NAME="magnify Coverage Results" MODIFIED="1525350087688" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vispy-master/examples/basics/scene" />
+    <SUITE FILE_PATH="coverage/mykidneyPC$two_qt_widgets.coverage" NAME="two_qt_widgets Coverage Results" MODIFIED="1525606662206" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vispy-master/examples/demo/gloo" />
+    <SUITE FILE_PATH="coverage/mykidneyPC$mandelbrot_double.coverage" NAME="mandelbrot_double Coverage Results" MODIFIED="1525607409070" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vispy-master/examples/demo/gloo" />
+    <SUITE FILE_PATH="coverage/mykidneyPC$T02_measurements.coverage" NAME="T02_measurements Coverage Results" MODIFIED="1525345172791" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vispy-master/examples/tutorial/visuals" />
+    <SUITE FILE_PATH="coverage/mykidneyPC$shared_context.coverage" NAME="shared_context Coverage Results" MODIFIED="1525345077822" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vispy-master/examples/tutorial/app" />
+    <SUITE FILE_PATH="coverage/mykidneyPC$simple_wx.coverage" NAME="simple_wx Coverage Results" MODIFIED="1525345095967" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vispy-master/examples/tutorial/app" />
+    <SUITE FILE_PATH="coverage/mykidneyPC$py_test_in_features_test_py.coverage" NAME="py.test in features_test.py Coverage Results" MODIFIED="1525010751883" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pypcl-master/test" />
+    <SUITE FILE_PATH="coverage/mykidneyPC$simple_vispy.coverage" NAME="simple_vispy Coverage Results" MODIFIED="1525344897366" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vispy-master/examples/benchmark" />
+    <SUITE FILE_PATH="coverage/mykidneyPC$isocurve.coverage" NAME="isocurve Coverage Results" MODIFIED="1525342988801" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vispy-master/examples/basics/scene" />
+    <SUITE FILE_PATH="coverage/mykidneyPC$arcball.coverage" NAME="arcball Coverage Results" MODIFIED="1525615365356" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vispy-master/examples/basics/visuals" />
+    <SUITE FILE_PATH="coverage/mykidneyPC$texture_precision.coverage" NAME="texture_precision Coverage Results" MODIFIED="1525345147238" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vispy-master/examples/tutorial/gloo" />
+    <SUITE FILE_PATH="coverage/mykidneyPC$chloropleth.coverage" NAME="chloropleth Coverage Results" MODIFIED="1525344909702" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vispy-master/examples/collections" />
+    <SUITE FILE_PATH="coverage/mykidneyPC$picking.coverage" NAME="picking Coverage Results" MODIFIED="1525352287392" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vispy-master/examples/demo/scene" />
+    <SUITE FILE_PATH="coverage/mykidneyPC$imshow_cuts.coverage" NAME="imshow_cuts Coverage Results" MODIFIED="1525607510390" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vispy-master/examples/demo/gloo" />
+    <SUITE FILE_PATH="coverage/mykidneyPC$isosurface.coverage" NAME="isosurface Coverage Results" MODIFIED="1525350101823" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vispy-master/examples/basics/scene" />
+    <SUITE FILE_PATH="coverage/mykidneyPC$window.coverage" NAME="window Coverage Results" MODIFIED="1525684383551" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/mykidneyPC$scene_test_1.coverage" NAME="scene_test_1 Coverage Results" MODIFIED="1525344875034" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vispy-master/examples/benchmark" />
+    <SUITE FILE_PATH="coverage/mykidneyPC$start_shaders.coverage" NAME="start_shaders Coverage Results" MODIFIED="1525342353176" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vispy-master/examples/basics/gloo" />
+    <SUITE FILE_PATH="coverage/mykidneyPC$triangle_collection.coverage" NAME="triangle_collection Coverage Results" MODIFIED="1525345039519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vispy-master/examples/collections" />
+    <SUITE FILE_PATH="coverage/mykidneyPC$fps.coverage" NAME="fps Coverage Results" MODIFIED="1525345066560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vispy-master/examples/tutorial/app" />
+    <SUITE FILE_PATH="coverage/mykidneyPC$camera.coverage" NAME="camera Coverage Results" MODIFIED="1525607827784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vispy-master/examples/demo/gloo" />
+    <SUITE FILE_PATH="coverage/mykidneyPC$image.coverage" NAME="image Coverage Results" MODIFIED="1525342957126" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vispy-master/examples/basics/scene" />
+    <SUITE FILE_PATH="coverage/mykidneyPC$isocurve_for_trisurface.coverage" NAME="isocurve_for_trisurface Coverage Results" MODIFIED="1525343094099" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vispy-master/examples/basics/scene" />
+    <SUITE FILE_PATH="coverage/mykidneyPC$multi_texture.coverage" NAME="multi_texture Coverage Results" MODIFIED="1525342339233" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vispy-master/examples/basics/gloo" />
+    <SUITE FILE_PATH="coverage/mykidneyPC$cloud__1_.coverage" NAME="cloud (1) Coverage Results" MODIFIED="1524814540272" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vispy-master/examples/demo/gloo" />
+    <SUITE FILE_PATH="coverage/mykidneyPC$realtime_signals.coverage" NAME="realtime_signals Coverage Results" MODIFIED="1525004984466" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vispy-master/examples/demo/gloo" />
+    <SUITE FILE_PATH="coverage/mykidneyPC$textured_quad.coverage" NAME="textured_quad Coverage Results" MODIFIED="1525345159819" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vispy-master/examples/tutorial/gloo" />
+    <SUITE FILE_PATH="coverage/mykidneyPC$molecular_viewer.coverage" NAME="molecular_viewer Coverage Results" MODIFIED="1525607352495" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vispy-master/examples/demo/gloo" />
+    <SUITE FILE_PATH="coverage/mykidneyPC$raytracing.coverage" NAME="raytracing Coverage Results" MODIFIED="1525606846992" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vispy-master/examples/demo/gloo" />
+    <SUITE FILE_PATH="coverage/mykidneyPC$scene_test_2.coverage" NAME="scene_test_2 Coverage Results" MODIFIED="1525344879422" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vispy-master/examples/benchmark" />
+    <SUITE FILE_PATH="coverage/mykidneyPC$quad.coverage" NAME="quad Coverage Results" MODIFIED="1525345111832" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vispy-master/examples/tutorial/gl" />
+    <SUITE FILE_PATH="coverage/mykidneyPC$test.coverage" NAME="test Coverage Results" MODIFIED="1525342183429" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/mykidneyPC$offscreen.coverage" NAME="offscreen Coverage Results" MODIFIED="1525607342255" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vispy-master/examples/demo/gloo" />
+    <SUITE FILE_PATH="coverage/mykidneyPC$background_borders.coverage" NAME="background_borders Coverage Results" MODIFIED="1525342485585" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vispy-master/examples/basics/scene" />
+    <SUITE FILE_PATH="coverage/mykidneyPC$polygon_collection.coverage" NAME="polygon_collection Coverage Results" MODIFIED="1525344986288" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vispy-master/examples/collections" />
+    <SUITE FILE_PATH="coverage/mykidneyPC$console.coverage" NAME="console Coverage Results" MODIFIED="1525342524272" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vispy-master/examples/basics/scene" />
+    <SUITE FILE_PATH="coverage/mykidneyPC$grayscott.coverage" NAME="grayscott Coverage Results" MODIFIED="1525607566909" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vispy-master/examples/demo/gloo" />
+    <SUITE FILE_PATH="coverage/mykidneyPC$rotating_quad.coverage" NAME="rotating_quad Coverage Results" MODIFIED="1525345142016" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vispy-master/examples/tutorial/gloo" />
+    <SUITE FILE_PATH="coverage/mykidneyPC$force_directed_graph.coverage" NAME="force_directed_graph Coverage Results" MODIFIED="1525352328926" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vispy-master/examples/demo/scene" />
+    <SUITE FILE_PATH="coverage/mykidneyPC$axes_plot.coverage" NAME="axes_plot Coverage Results" MODIFIED="1525615451279" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vispy-master/examples/basics/scene" />
+    <SUITE FILE_PATH="coverage/mykidneyPC$animate_images_slice.coverage" NAME="animate_images_slice Coverage Results" MODIFIED="1525342324380" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vispy-master/examples/basics/gloo" />
+    <SUITE FILE_PATH="coverage/mykidneyPC$flow_lines.coverage" NAME="flow_lines Coverage Results" MODIFIED="1524797687172" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vispy-master/examples/demo/scene" />
+    <SUITE FILE_PATH="coverage/mykidneyPC$shadertoy.coverage" NAME="shadertoy Coverage Results" MODIFIED="1525606802392" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vispy-master/examples/demo/gloo" />
+    <SUITE FILE_PATH="coverage/mykidneyPC$arrows_quiver.coverage" NAME="arrows_quiver Coverage Results" MODIFIED="1525615462545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vispy-master/examples/basics/visuals" />
+    <SUITE FILE_PATH="coverage/mykidneyPC$contour.coverage" NAME="contour Coverage Results" MODIFIED="1525342568312" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vispy-master/examples/basics/scene" />
+    <SUITE FILE_PATH="coverage/mykidneyPC$galaxy.coverage" NAME="galaxy Coverage Results" MODIFIED="1525607804631" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vispy-master/examples/demo/gloo" />
+    <SUITE FILE_PATH="coverage/mykidneyPC$simple_glut.coverage" NAME="simple_glut Coverage Results" MODIFIED="1525344892694" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vispy-master/examples/benchmark" />
+    <SUITE FILE_PATH="coverage/mykidneyPC$T04_fragment_programs.coverage" NAME="T04_fragment_programs Coverage Results" MODIFIED="1525345195742" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vispy-master/examples/tutorial/visuals" />
+    <SUITE FILE_PATH="coverage/mykidneyPC$unstructured_2d.coverage" NAME="unstructured_2d Coverage Results" MODIFIED="1525606552379" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vispy-master/examples/demo/gloo" />
+    <SUITE FILE_PATH="coverage/mykidneyPC$simple_osmesa.coverage" NAME="simple_osmesa Coverage Results" MODIFIED="1525345054351" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vispy-master/examples/offscreen" />
+    <SUITE FILE_PATH="coverage/mykidneyPC$rotate_cube.coverage" NAME="rotate_cube Coverage Results" MODIFIED="1525342363274" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vispy-master/examples/basics/gloo" />
+    <SUITE FILE_PATH="coverage/mykidneyPC$rain.coverage" NAME="rain Coverage Results" MODIFIED="1524834513591" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vispy-master/examples/demo/gloo" />
+    <SUITE FILE_PATH="coverage/mykidneyPC$path_collection.coverage" NAME="path_collection Coverage Results" MODIFIED="1525344971279" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vispy-master/examples/collections" />
+    <SUITE FILE_PATH="coverage/mykidneyPC$mandelbrot.coverage" NAME="mandelbrot Coverage Results" MODIFIED="1525607487783" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vispy-master/examples/demo/gloo" />
+    <SUITE FILE_PATH="coverage/mykidneyPC$plot.coverage" NAME="plot Coverage Results" MODIFIED="1524797671221" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vispy-master/examples/demo/plot" />
+    <SUITE FILE_PATH="coverage/mykidneyPC$terrain.coverage" NAME="terrain Coverage Results" MODIFIED="1525606687847" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vispy-master/examples/demo/gloo" />
+    <SUITE FILE_PATH="coverage/mykidneyPC$scrolling_plots.coverage" NAME="scrolling_plots Coverage Results" MODIFIED="1525350665744" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vispy-master/examples/demo/scene" />
+    <SUITE FILE_PATH="coverage/mykidneyPC$primitive_mesh_viewer_qt.coverage" NAME="primitive_mesh_viewer_qt Coverage Results" MODIFIED="1525606916151" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vispy-master/examples/demo/gloo" />
+    <SUITE FILE_PATH="coverage/mykidneyPC$start.coverage" NAME="start Coverage Results" MODIFIED="1525342345223" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vispy-master/examples/basics/gloo" />
+    <SUITE FILE_PATH="coverage/mykidneyPC$app_events.coverage" NAME="app_events Coverage Results" MODIFIED="1525349628603" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vispy-master/examples/tutorial/app" />
+    <SUITE FILE_PATH="coverage/mykidneyPC$segment_collection.coverage" NAME="segment_collection Coverage Results" MODIFIED="1525344995145" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vispy-master/examples/collections" />
+    <SUITE FILE_PATH="coverage/mykidneyPC$interactive.coverage" NAME="interactive Coverage Results" MODIFIED="1525345074319" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vispy-master/examples/tutorial/app" />
+    <SUITE FILE_PATH="coverage/mykidneyPC$graph.coverage" NAME="graph Coverage Results" MODIFIED="1525607582776" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vispy-master/examples/demo/gloo" />
+    <SUITE FILE_PATH="coverage/mykidneyPC$colored_cube.coverage" NAME="colored_cube Coverage Results" MODIFIED="1525345118801" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vispy-master/examples/tutorial/gloo" />
+    <SUITE FILE_PATH="coverage/mykidneyPC$ndscatter.coverage" NAME="ndscatter Coverage Results" MODIFIED="1525607313727" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vispy-master/examples/demo/gloo" />
+    <SUITE FILE_PATH="coverage/mykidneyPC$point_collection.coverage" NAME="point_collection Coverage Results" MODIFIED="1525344977498" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vispy-master/examples/collections" />
+    <SUITE FILE_PATH="coverage/mykidneyPC$wiggly_bar__2_.coverage" NAME="wiggly_bar (2) Coverage Results" MODIFIED="1524749787068" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/mykidneyPC$jfa_vispy.coverage" NAME="jfa_vispy Coverage Results" MODIFIED="1524750156302" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vispy-master/examples/demo/gloo/jfa" />
+    <SUITE FILE_PATH="coverage/mykidneyPC$flipped_axis.coverage" NAME="flipped_axis Coverage Results" MODIFIED="1525350073040" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vispy-master/examples/basics/scene" />
+    <SUITE FILE_PATH="coverage/mykidneyPC$fireworks.coverage" NAME="fireworks Coverage Results" MODIFIED="1525345106678" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vispy-master/examples/tutorial/gl" />
+    <SUITE FILE_PATH="coverage/mykidneyPC$colorbar.coverage" NAME="colorbar Coverage Results" MODIFIED="1525342375878" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vispy-master/examples/basics/plotting" />
+    <SUITE FILE_PATH="coverage/mykidneyPC$jfa_translation.coverage" NAME="jfa_translation Coverage Results" MODIFIED="1524797662891" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vispy-master/examples/demo/gloo/jfa" />
+    <SUITE FILE_PATH="coverage/mykidneyPC$cube.coverage" NAME="cube Coverage Results" MODIFIED="1525346853208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vispy-master/examples/basics/scene" />
+    <SUITE FILE_PATH="coverage/mykidneyPC$infinite_line.coverage" NAME="infinite_line Coverage Results" MODIFIED="1525342982627" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vispy-master/examples/basics/scene" />
+    <SUITE FILE_PATH="coverage/mykidneyPC$grid.coverage" NAME="grid Coverage Results" MODIFIED="1525350062375" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vispy-master/examples/basics/scene" />
+    <SUITE FILE_PATH="coverage/mykidneyPC$wiggly_bar__1_.coverage" NAME="wiggly_bar (1) Coverage Results" MODIFIED="1524748591839" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vispy-master/examples/demo/visuals" />
+    <SUITE FILE_PATH="coverage/mykidneyPC$spacy.coverage" NAME="spacy Coverage Results" MODIFIED="1525606747301" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vispy-master/examples/demo/gloo" />
+    <SUITE FILE_PATH="coverage/mykidneyPC$high_frequency.coverage" NAME="high_frequency Coverage Results" MODIFIED="1525607550849" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vispy-master/examples/demo/gloo" />
+    <SUITE FILE_PATH="coverage/mykidneyPC$T01_basic_visual.coverage" NAME="T01_basic_visual Coverage Results" MODIFIED="1525345166883" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vispy-master/examples/tutorial/visuals" />
+    <SUITE FILE_PATH="coverage/mykidneyPC$animate_images.coverage" NAME="animate_images Coverage Results" MODIFIED="1525342317623" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vispy-master/examples/basics/gloo" />
+    <SUITE FILE_PATH="coverage/mykidneyPC$colorbar_widget.coverage" NAME="colorbar_widget Coverage Results" MODIFIED="1525342500616" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vispy-master/examples/basics/scene" />
+    <SUITE FILE_PATH="coverage/mykidneyPC$isocurve_updates.coverage" NAME="isocurve_updates Coverage Results" MODIFIED="1525343636908" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vispy-master/examples/basics/scene" />
+    <SUITE FILE_PATH="coverage/mykidneyPC$grid_basic.coverage" NAME="grid_basic Coverage Results" MODIFIED="1525615443560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vispy-master/examples/basics/plotting" />
+    <SUITE FILE_PATH="coverage/mykidneyPC$glsl_sandbox_cube.coverage" NAME="glsl_sandbox_cube Coverage Results" MODIFIED="1525607742164" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vispy-master/examples/demo/gloo" />
+    <SUITE FILE_PATH="coverage/mykidneyPC$brain.coverage" NAME="brain Coverage Results" MODIFIED="1524924913159" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vispy-master/examples/demo/gloo" />
+    <SUITE FILE_PATH="coverage/mykidneyPC$hello_fbo.coverage" NAME="hello_fbo Coverage Results" MODIFIED="1525342332688" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vispy-master/examples/basics/gloo" />
+    <SUITE FILE_PATH="coverage/mykidneyPC$volume.coverage" NAME="volume Coverage Results" MODIFIED="1525342394755" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vispy-master/examples/basics/plotting" />
+    <SUITE FILE_PATH="coverage/mykidneyPC$py_test_in_pointcloud_test_py.coverage" NAME="py.test in pointcloud_test.py Coverage Results" MODIFIED="1525053923008" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pypcl-master/test" />
+    <SUITE FILE_PATH="coverage/mykidneyPC$voronoi.coverage" NAME="voronoi Coverage Results" MODIFIED="1525606480589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vispy-master/examples/demo/gloo" />
+    <SUITE FILE_PATH="coverage/mykidneyPC$simple.coverage" NAME="simple Coverage Results" MODIFIED="1525345088974" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vispy-master/examples/tutorial/app" />
+    <SUITE FILE_PATH="coverage/mykidneyPC$T03_antialiasing.coverage" NAME="T03_antialiasing Coverage Results" MODIFIED="1525345179608" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vispy-master/examples/tutorial/visuals" />
+    <SUITE FILE_PATH="coverage/mykidneyPC$atom.coverage" NAME="atom Coverage Results" MODIFIED="1524930482556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vispy-master/examples/demo/gloo" />
+    <SUITE FILE_PATH="coverage/mykidneyPC$lighted_cube.coverage" NAME="lighted_cube Coverage Results" MODIFIED="1525345127712" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vispy-master/examples/tutorial/gloo" />
+    <SUITE FILE_PATH="coverage/mykidneyPC$oscilloscope.coverage" NAME="oscilloscope Coverage Results" MODIFIED="1525352300726" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vispy-master/examples/demo/scene" />
+    <SUITE FILE_PATH="coverage/mykidneyPC$isocurve_for_trisurface_qt.coverage" NAME="isocurve_for_trisurface_qt Coverage Results" MODIFIED="1525343063718" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vispy-master/examples/basics/scene" />
+    <SUITE FILE_PATH="coverage/mykidneyPC$donut.coverage" NAME="donut Coverage Results" MODIFIED="1524930472383" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/mykidneyPC$textured_cube.coverage" NAME="textured_cube Coverage Results" MODIFIED="1525345154426" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vispy-master/examples/tutorial/gloo" />
+    <SUITE FILE_PATH="coverage/mykidneyPC$brain__1_.coverage" NAME="brain (1) Coverage Results" MODIFIED="1524751162905" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/mykidneyPC$T05_viewer_location.coverage" NAME="T05_viewer_location Coverage Results" MODIFIED="1525347542158" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vispy-master/examples/tutorial/visuals" />
+    <SUITE FILE_PATH="coverage/mykidneyPC$wiggly_bar.coverage" NAME="wiggly_bar Coverage Results" MODIFIED="1525350623970" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vispy-master/examples/demo/visuals" />
+    <SUITE FILE_PATH="coverage/mykidneyPC$arrows.coverage" NAME="arrows Coverage Results" MODIFIED="1525615424632" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vispy-master/examples/basics/visuals" />
+    <SUITE FILE_PATH="coverage/mykidneyPC$galaxy_simulation.coverage" NAME="galaxy_simulation Coverage Results" MODIFIED="1524750148526" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vispy-master/examples/demo/gloo/galaxy" />
+    <SUITE FILE_PATH="coverage/mykidneyPC$signals.coverage" NAME="signals Coverage Results" MODIFIED="1524797479761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vispy-master/examples/demo/gloo" />
+    <SUITE FILE_PATH="coverage/mykidneyPC$colored_line.coverage" NAME="colored_line Coverage Results" MODIFIED="1525342507328" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vispy-master/examples/basics/scene" />
+    <SUITE FILE_PATH="coverage/mykidneyPC$tiger.coverage" NAME="tiger Coverage Results" MODIFIED="1525345002095" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vispy-master/examples/collections" />
+    <SUITE FILE_PATH="coverage/mykidneyPC$colored_quad.coverage" NAME="colored_quad Coverage Results" MODIFIED="1525345123544" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vispy-master/examples/tutorial/gloo" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/window.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="119" lean-forward="true" selection-start-line="119" selection-end-line="119" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Let_us_create_CFO1/Let_us_create_CFO/DataManage.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="9" column="36" lean-forward="true" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
+              <folding>
+                <element signature="e#0#24#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/videobox.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="664">
+              <caret line="150" selection-start-line="150" selection-end-line="150" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DataManage.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1000">
+              <caret line="55" column="81" lean-forward="true" selection-start-line="55" selection-start-column="81" selection-end-line="55" selection-end-column="81" />
+              <folding>
+                <element signature="e#2#20#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/getb.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="338">
+              <caret line="13" column="32" lean-forward="true" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
+              <folding>
+                <element signature="e#24#42#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/debug2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="325">
+              <caret line="13" column="22" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="22" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/degug.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="540">
+              <caret line="20" column="24" lean-forward="true" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>fps</find>
+      <find>thread_load_data</find>
+      <find>load_data</find>
+      <find>file_path</find>
+      <find>avi</find>
+      <find>set_description</find>
+      <find>dataManage</find>
+      <find>object</find>
+      <find>save</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/venv/Lib/site-packages/vispy/app/qt.py" />
+        <option value="$PROJECT_DIR$/examples/demo/visuals/wiggly_bar.py" />
+        <option value="$PROJECT_DIR$/wiggly_bar.py" />
+        <option value="$PROJECT_DIR$/brain.py" />
+        <option value="$PROJECT_DIR$/vispy-master/examples/demo/gloo/cloud.py" />
+        <option value="$PROJECT_DIR$/vispy-master/examples/demo/gloo/rain.py" />
+        <option value="$PROJECT_DIR$/vispy-master/examples/demo/gloo/primitive_mesh_viewer_qt.py" />
+        <option value="$PROJECT_DIR$/donut.py" />
+        <option value="$PROJECT_DIR$/util/util.py" />
+        <option value="$PROJECT_DIR$/vispy-master/examples/tutorial/app/app_events.py" />
+        <option value="$PROJECT_DIR$/vispy-master/examples/demo/visuals/wiggly_bar.py" />
+        <option value="$PROJECT_DIR$/PlanWindow.py" />
+        <option value="$PROJECT_DIR$/UnFrameStyle.qss" />
+        <option value="$PROJECT_DIR$/util/param.py" />
+        <option value="$PROJECT_DIR$/vispy-master/examples/demo/gloo/two_qt_widgets.py" />
+        <option value="$PROJECT_DIR$/vispy-master/examples/demo/gloo/offscreen.py" />
+        <option value="$PROJECT_DIR$/vispy-master/examples/demo/gloo/glsl_sandbox_cube.py" />
+        <option value="$PROJECT_DIR$/vispy-master/examples/demo/gloo/camera.py" />
+        <option value="$PROJECT_DIR$/nn/VNet.py" />
+        <option value="$PROJECT_DIR$/nn/Unet3D.py" />
+        <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/util/message.py" />
+        <option value="$PROJECT_DIR$/test2.py" />
+        <option value="$PROJECT_DIR$/ChildThread.py" />
+        <option value="$PROJECT_DIR$/cloud.py" />
+        <option value="$PROJECT_DIR$/window.py" />
+        <option value="$PROJECT_DIR$/videobox.py" />
+        <option value="$PROJECT_DIR$/ChildWindow.py" />
+        <option value="$PROJECT_DIR$/debug2.py" />
+        <option value="$PROJECT_DIR$/degug.py" />
+        <option value="$PROJECT_DIR$/getb.py" />
+        <option value="$PROJECT_DIR$/DataManage.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="219" />
+    <option name="y" value="74" />
+    <option name="width" value="1558" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Python</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>PyCompatibilityInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Let_us_create_CFO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Let_us_create_CFO" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Let_us_create_CFO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="F:/labVideo1_2" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="I:\HYT\mykidneyPC\data" />
+      <recent name="E:\Desktop\mykidneyPC" />
+      <recent name="E:\Desktop\mykidneyPC\logo" />
+      <recent name="E:\Desktop\mykidneyPC\data" />
+      <recent name="E:\Desktop\mykidneyPC\data\orgImg" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="I:\HYT\mykidneyPC\nn" />
+      <recent name="I:\HYT\mykidneyPC\data" />
+      <recent name="I:\HYT\mykidneyPC" />
+      <recent name="E:\Desktop\mykidneyPC" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.window">
+    <configuration name="ChildWindow" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="mykidneyPC" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ChildWindow.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="DataManage (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="mykidneyPC" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Let_us_create_CFO1/Let_us_create_CFO" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Let_us_create_CFO1/Let_us_create_CFO/DataManage.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="DataManage" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="mykidneyPC" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataManage.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="debug2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="mykidneyPC" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/debug2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="window" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="mykidneyPC" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/window.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.window" />
+      <item itemvalue="Python.ChildWindow" />
+      <item itemvalue="Python.DataManage" />
+      <item itemvalue="Python.debug2" />
+      <item itemvalue="Python.DataManage (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.window" />
+        <item itemvalue="Python.DataManage (1)" />
+        <item itemvalue="Python.debug2" />
+        <item itemvalue="Python.DataManage" />
+        <item itemvalue="Python.ChildWindow" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ae72fc0d-276b-4fd3-b0e4-c75e8b79d4a2" name="Default" comment="" />
+      <created>1524664806427</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1524664806427</updated>
+      <workItem from="1564109053770" duration="2079000" />
+      <workItem from="1569402265051" duration="364000" />
+      <workItem from="1569405025449" duration="2045000" />
+      <workItem from="1569408693400" duration="1590000" />
+      <workItem from="1569410346634" duration="291000" />
+      <workItem from="1569410684788" duration="109000" />
+      <workItem from="1569411170158" duration="784000" />
+      <workItem from="1569413589862" duration="256000" />
+      <workItem from="1571643197949" duration="24058000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="py_test_in_features_test_py - 2018.04.29 at 22h 04m 49s.xml">
+      <configuration name="py.test in features_test.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_features_test_py - 2018.04.29 at 22h 06m 17s.xml">
+      <configuration name="py.test in features_test.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_pointcloud_test_py - 2018.04.29 at 22h 07m 08s.xml">
+      <configuration name="py.test in pointcloud_test.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_pointcloud_test_py - 2018.04.30 at 10h 12m 30s.xml">
+      <configuration name="py.test in pointcloud_test.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="31576000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15458423" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.329582" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49789253" weight="0.20368364" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4539545" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.4969743" weight="0.17768148" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32475883" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5021075" side_tool="true" weight="0.10292524" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Data View" order="3" />
+      <window_info anchor="right" id="LuaJ" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="SciView" order="6" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15487316" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.329582" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49789253" visible="true" weight="0.20910075" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4539545" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.4969743" weight="0.17768148" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32475883" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5021075" side_tool="true" weight="0.10292524" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Data View" order="3" />
+      <window_info anchor="right" id="LuaJ" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="SciView" order="6" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/vispy-master/examples/demo/gloo/cloud.py</url>
+          <line>227</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/pypcl-master/test/pointcloud_test.py</url>
+          <line>113</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/vispy-master/examples/basics/scene/isocurve_for_trisurface.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/vispy-master/examples/demo/gloo/camera.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="default_timer" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Let_us_create_CFO$DataManage.coverage" NAME="DataManage Coverage Results" MODIFIED="1571644078860" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Let_us_create_CFO$debug2.coverage" NAME="debug2 Coverage Results" MODIFIED="1571647090085" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Let_us_create_CFO$window.coverage" NAME="window Coverage Results" MODIFIED="1571668848768" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Let_us_create_CFO$DataManage__1_.coverage" NAME="DataManage (1) Coverage Results" MODIFIED="1571668840852" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Let_us_create_CFO1/Let_us_create_CFO" />
+    <SUITE FILE_PATH="coverage/labVideo1_1$window.coverage" NAME="window Coverage Results" MODIFIED="1569405642285" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Let_us_create_CFO_$window.coverage" NAME="window Coverage Results" MODIFIED="1569410357160" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/labVideo1_1$ChildWindow.coverage" NAME="ChildWindow Coverage Results" MODIFIED="1564109071317" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/vispy-master/examples/demo/gloo/game_of_life.py" />
+    <entry file="file://$PROJECT_DIR$/vispy-master/examples/demo/gloo/high_frequency.py" />
+    <entry file="file://$PROJECT_DIR$/vispy-master/examples/demo/gloo/imshow.py" />
+    <entry file="file://$PROJECT_DIR$/logo/logo.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://C:/Program Files/Anaconda3/Lib/site-packages/keras/backend/tensorflow_backend.py" />
+    <entry file="file://C:/Program Files/Anaconda3/Lib/site-packages/keras/engine/training.py" />
+    <entry file="file://$PROJECT_DIR$/nn/Unet3D.py" />
+    <entry file="file://$PROJECT_DIR$/nn/VNet.py" />
+    <entry file="file://$PROJECT_DIR$/util/util.py" />
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.2/system/python_stubs/2063550293/PyQt5/QtWidgets/QFileDialog.py" />
+    <entry file="file://E:/window.py" />
+    <entry file="file://$PROJECT_DIR$/1111/_tips.txt" />
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.2/system/python_stubs/2063550293/PyQt5/QtWidgets/QPushButton.py" />
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test2.py" />
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.2/system/python_stubs/2063550293/nt.py" />
+    <entry file="file://$PROJECT_DIR$/11.csv" />
+    <entry file="file://$PROJECT_DIR$/0.csv" />
+    <entry file="file://$PROJECT_DIR$/1.csv" />
+    <entry file="file://$PROJECT_DIR$/ChildThread.py" />
+    <entry file="file://$PROJECT_DIR$/cloud.py" />
+    <entry file="file://$PROJECT_DIR$/DataManage2.py" />
+    <entry file="file://$PROJECT_DIR$/PlanWindow.py" />
+    <entry file="file://$PROJECT_DIR$/test.py" />
+    <entry file="file://$PROJECT_DIR$/util/param.py" />
+    <entry file="file://$PROJECT_DIR$/label/0.csv" />
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.2/system/python_stubs/2063550293/PyQt5/QtWidgets/QWidget.py" />
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.2/system/python_stubs/2063550293/PyQt5/QtWidgets/QLineEdit.py" />
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.2/system/python_stubs/2063550293/PyQt5/QtWidgets/QMainWindow.py" />
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.2/system/python_stubs/2063550293/PyQt5/QtWidgets/QLabel.py" />
+    <entry file="file://$PROJECT_DIR$/label/11.csv" />
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.2/system/python_stubs/2063550293/PyQt5/QtWidgets/QAbstractButton.py" />
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.2/system/python_stubs/2063550293/PyQt5/QtWidgets/QInputDialog.py" />
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.2/system/python_stubs/2063550293/PyQt5/QtWidgets/QToolBar.py" />
+    <entry file="file://$PROJECT_DIR$/label/3.csv" />
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.2/system/python_stubs/2063550293/numpy/core/multiarray.py" />
+    <entry file="file://$PROJECT_DIR$/label/5.csv" />
+    <entry file="file://$PROJECT_DIR$/label/1.csv" />
+    <entry file="file://$PROJECT_DIR$/label/8.csv" />
+    <entry file="file://$PROJECT_DIR$/label/2.csv" />
+    <entry file="file://$PROJECT_DIR$/util/message.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/labVideo/DataManage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="24" column="67" lean-forward="true" selection-start-line="24" selection-start-column="67" selection-end-line="24" selection-end-column="67" />
+          <folding>
+            <element signature="e#0#24#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ChildWindow.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="921">
+          <caret line="88" selection-start-line="88" selection-end-line="88" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+            <marker date="1569411276894" expanded="true" signature="2165:2171" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/DataManage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="728">
+          <caret line="28" column="49" selection-start-line="28" selection-start-column="40" selection-end-line="28" selection-end-column="49" />
+          <folding>
+            <element signature="e#0#24#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/videobox.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="664">
+          <caret line="150" selection-start-line="150" selection-end-line="150" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/debug2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="13" column="22" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/degug.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="20" column="24" lean-forward="true" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/getb.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="13" column="32" lean-forward="true" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
+          <folding>
+            <element signature="e#24#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataManage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1000">
+          <caret line="55" column="81" lean-forward="true" selection-start-line="55" selection-start-column="81" selection-end-line="55" selection-end-column="81" />
+          <folding>
+            <element signature="e#2#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Let_us_create_CFO1/Let_us_create_CFO/DataManage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="36" lean-forward="true" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
+          <folding>
+            <element signature="e#0#24#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/window.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="119" lean-forward="true" selection-start-line="119" selection-end-line="119" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
